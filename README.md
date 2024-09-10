@@ -11,7 +11,7 @@
   * 所有節點使用 UDP 溝通
 * 模擬網路架構如下圖：
   <p align="left">
-    <img src="https://github.com/user-attachments/assets/3793fbbe-0e04-48b6-a1ce-24a14ec36e4e" width="60%">
+    <img src="https://github.com/user-attachments/assets/3793fbbe-0e04-48b6-a1ce-24a14ec36e4e" width="80%">
   </p>
 
 詳細 code 請看`project1.cc`
